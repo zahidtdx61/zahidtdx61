@@ -1,4 +1,10 @@
-# Hi there, I'm Md. Zahidur Rahman! 👋
+[![MasterHead](./assets/banner.gif)](https://github.com/zahidtdx61)
+
+<h1 align="center">Hi there, I'm Md. Zahidur Rahman! 👋</h1>
+<img align="right" alt="Coding" width="400" src="./assets/side-right.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidtdx61&label=Profile%20views&color=0e75b6&style=flat" alt="zahidtdx61" /> </p>
+
 
 ## 🚀 About Me
 
@@ -15,16 +21,20 @@ I'm a passionate developer with a keen interest in development, competitive prog
 
 ![zahidtdx61's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidtdx61&show_icons=true&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahidtdx61&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zahidtdx61" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidtdx61&&theme=tokyonight" alt="zahidtdx61" /></p>
+
 ## 📫 How to reach me
 
 - **Email**: zahidur.tdx61@gmail.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/m-zahidur-rahman/)
+- **LinkedIn**: [Md. Zahidur Rahman](https://www.linkedin.com/in/m-zahidur-rahman/)
 - **Twitter**: [@zahidtdx61](https://twitter.com/zahidtdx61)
 
 ## 🌱 I’m currently learning
 
 - Advanced TypeScript
-- Backend with Next.js
+- Full stack development with Next.js
 
 ## 👯 I’m looking to collaborate on
 
@@ -36,3 +46,4 @@ I'm a passionate developer with a keen interest in development, competitive prog
 Feel free to reach out if you have any questions or just want to connect. I'm always open to discussing new ideas and collaborations.
 
 ![Profile views](https://komarev.com/ghpvc/?username=zahidtdx61)
+
