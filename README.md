@@ -31,12 +31,6 @@ I'm a passionate developer with a keen interest in development, competitive prog
 - Open-source projects
 - Innovative web applications
 
-## 🎯 Goals for 2024
-
-- Contribute to 10 open-source projects
-- Launch a personal website/blog
-- Build a full-stack application with React and Node.js
-
 ## 💬 Let's Connect
 
 Feel free to reach out if you have any questions or just want to connect. I'm always open to discussing new ideas and collaborations.
