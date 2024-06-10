@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidtdx61&label=Profile%20views&color=0e75b6&style=flat" alt="zahidtdx61" /> </p>
 
-<div align="left">
 <h3 align="left">🚀 About Me</h3>
 <p align="left">I'm a passionate developer with a keen interest in development, competitive programming, software development, and open-source contribution. My goal is to continuously learn and grow while contributing to exciting projects.</p>
 
-</div>
+<br/>
+<br/>
 
-<br>
-
-## 🔧 Technologies & Tools
+<h3 align="left">🔧 Technologies & Tools</h3>
 
 - **Languages**: ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=cplusplus) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - **Frontend Technologies**: ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) ![Recoil](https://img.shields.io/badge/-Recoil-333333?style=flat&logo=recoil) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
