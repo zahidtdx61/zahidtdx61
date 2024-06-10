@@ -5,10 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidtdx61&label=Profile%20views&color=0e75b6&style=flat" alt="zahidtdx61" /> </p>
 
+<div align="left">
+<h3 align="left">🚀 About Me</h3>
+<p align="left">I'm a passionate developer with a keen interest in development, competitive programming, software development, and open-source contribution. My goal is to continuously learn and grow while contributing to exciting projects.</p>
 
-## 🚀 About Me
+</div>
 
-I'm a passionate developer with a keen interest in development, competitive programming, software development, and open-source contribution. My goal is to continuously learn and grow while contributing to exciting projects.
+<br>
 
 ## 🔧 Technologies & Tools
 
@@ -46,4 +49,3 @@ I'm a passionate developer with a keen interest in development, competitive prog
 Feel free to reach out if you have any questions or just want to connect. I'm always open to discussing new ideas and collaborations.
 
 ![Profile views](https://komarev.com/ghpvc/?username=zahidtdx61)
-
