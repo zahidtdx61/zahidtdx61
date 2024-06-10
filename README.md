@@ -45,5 +45,3 @@
 ## 💬 Let's Connect
 
 Feel free to reach out if you have any questions or just want to connect. I'm always open to discussing new ideas and collaborations.
-
-![Profile views](https://komarev.com/ghpvc/?username=zahidtdx61)
