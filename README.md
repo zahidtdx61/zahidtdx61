@@ -17,7 +17,7 @@ I'm a passionate developer with a keen interest in development, competitive prog
 
 ## 📫 How to reach me
 
-- **Email**: zahidur.tdx61@example.com
+- **Email**: zahidur.tdx61@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/m-zahidur-rahman/)
 - **Twitter**: [@zahidtdx61](https://twitter.com/zahidtdx61)
 
